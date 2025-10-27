@@ -6,7 +6,7 @@
     <title>My Portfolio</title>
 </head>
 <body>
-    <h1>Vishal</h1>
+    <h1>Yash tomar</h1>
     <ol>
         <li><a href="">About Me</a></li>
         <li><a href="">Projects</a></li>
