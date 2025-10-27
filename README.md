@@ -33,7 +33,7 @@
         <tr>
             <td>Speaking To Client</td>
             <td>Beginner</td>
-        </tr>
+       </tr>
     </table>
     <h1>Contact Me</h1>
     <Forms>
@@ -46,6 +46,4 @@
         <button type="Submit">Submit</button>
     </Forms>
     </body>
-</html>
-</body>
 </html>
