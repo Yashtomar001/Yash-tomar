@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Simple 3-Column Grid</title>
+<style>
+.grid-container {
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;        /* Three equal fraction units */
+gap: 10px;                                /* Space between items */
+border: 2px solid black;
+padding: 10px;
+background-color: #f0f0f0;
+}
+
+.grid-item {
+background-color: lightcoral;
+padding: 20px;
+text-align: center;
+border: 1px solid red;
+font-size: 18px;
+}
+</style>
+</head>
+<body>
+       <div class="grid-container">
+       <div class="grid-item">Item 1</div>
+       <div class="grid-item">Item 2</div>
+       <div class="grid-item">Item 3</div>
+</div>
+</body>
+</html>
